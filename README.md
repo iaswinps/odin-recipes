@@ -1,1 +1,1 @@
-# odin-recipes
+In this project, I will learn how to create a basic recipe webpage using HTML and CSS. I’ll understand how to structure a webpage with headings, images, lists, and text, and how to style it to make it look attractive.
